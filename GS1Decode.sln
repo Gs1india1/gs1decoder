@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GS1Decode", "GS1Decode\GS1Decode.csproj", "{178B77EE-DFFD-4413-A44C-5EA1925C7E8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{F82E269C-6691-4EB3-965A-E541174E63CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{178B77EE-DFFD-4413-A44C-5EA1925C7E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{178B77EE-DFFD-4413-A44C-5EA1925C7E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{178B77EE-DFFD-4413-A44C-5EA1925C7E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{178B77EE-DFFD-4413-A44C-5EA1925C7E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F82E269C-6691-4EB3-965A-E541174E63CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F82E269C-6691-4EB3-965A-E541174E63CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F82E269C-6691-4EB3-965A-E541174E63CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F82E269C-6691-4EB3-965A-E541174E63CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F815A3D-7811-4966-A1C2-441059F82E97}
+	EndGlobalSection
+EndGlobal
